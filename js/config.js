@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/limit.png";
+var l_serverImage = "https://raw.githubusercontent.com/ItzJerry02/limit/master/images/limit.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
